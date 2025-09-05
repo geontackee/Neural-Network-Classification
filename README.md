@@ -1,4 +1,4 @@
-# Neural Network from Scratch (Digits Classification)
+# Neural Network from Scratch (MNIST Classification)
 
 This repository implements a **fully custom feedforward neural network** (no deep-learning frameworks) to classify handwritten digits using scikit-learn’s **Digits** dataset (8×8 images; a small MNIST-like dataset).  
 The notebook walks through preprocessing, activation functions (and their derivatives), training, hyperparameter experiments, and comparisons across **Sigmoid**, **ReLU**, and **Tanh** networks.
